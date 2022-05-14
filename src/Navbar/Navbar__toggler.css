@@ -1,0 +1,20 @@
+
+  .toggler{
+	border: 3px solid;
+	border-color: var(--main-purple);
+	margin-right: 15px;
+	padding: 5px;
+	background-color: transparent;
+	cursor: pointer;
+	height: 35px;
+	width: 35px;
+	display: none;
+	align-self: center;
+
+	@media screen and (max-width: 768px) { 
+		display:flex;
+	}
+
+}
+
+

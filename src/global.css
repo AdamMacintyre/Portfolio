@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Monsterrat:wght@300;400;700&display=swap');
+:root {
+	--font-family: 'Montserrat', sans-serif;
+	--fontsize-regular: 1rem;
+	--fontsize-big: 2rem;
+	--fontsize-small: 0.8rem;
+
+	--gradient-text: linear-gradient(89.97deg, #ae67fa 1.84%, #f49867 102.67%);
+	--gradient-bar: linear-gradient(103.22deg, #ae67fa -13.86%, #f49867 99.55%);
+	--gradient-background: linear-gradient(90deg, rgb(145, 113, 243) 11%, rgb(77, 0, 165) 83%);
+
+	--color-bg: #040c18;
+	--color-footer: #031b34;
+	--color-blog: #042c54;
+	--color-text: #81afdd;
+	--color-subtext: #ff8a71;
+	--color-dark: #201f1f;
+	--color-darkLight: #646464;
+	--color-lightmode :rgb(219, 219, 219);
+	--color-mainpurple: #610eb5;
+}
